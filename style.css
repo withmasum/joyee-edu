@@ -34,3 +34,17 @@
 .fa-star {
     color: orange;
 }
+
+
+footer {
+
+    background-color: #161616;
+
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+.custom-col {
+    background-color: #242424;
+}
